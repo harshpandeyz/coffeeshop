@@ -20,9 +20,8 @@ Font Awesome, Smooth Scroll, Google Maps Embed, Scroll Animations, Custom Fonts,
 
 ## 📸 Sneak Peek  
 
-![Screenshot 2025-04-30 233605](https://github.com/user-attachments/assets/5320c08b-a335-43c3-8412-f988dcc632c6)
 
-![Screenshot 2025-04-30 233631](https://github.com/user-attachments/assets/e4f8ce3d-8826-4995-bfeb-4ab09cac7a1c)
+![screencapture-coffeeshop-dun-vercel-app-2025-05-02-18_49_58](https://github.com/user-attachments/assets/361be4ba-66ab-4c17-8adb-712c386e1b2a)
 
 
 ---
